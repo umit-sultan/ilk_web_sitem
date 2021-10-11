@@ -1,0 +1,18 @@
+.main {
+    position: relative;
+    top: -30px;
+    padding: 0 10px 5px 10px;
+    margin-left: 15%;
+    height: 450px;
+    overflow: auto;
+}
+
+.baslik {
+    text-align: center;
+    font-size: 18px;
+    color: #6A1B9A;
+}
+
+.main p {
+    margin: 15px 0 15px 0;
+}
